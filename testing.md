@@ -1,7 +1,7 @@
 ---
 title: Testing hashnode Github integration post
 slug: hello-world-from-github
-tags: test
+tags: test, github, markdown
 cover: https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png
 domain: esli.blog.br
 ---
