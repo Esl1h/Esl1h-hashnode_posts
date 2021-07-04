@@ -1,3 +1,4 @@
+---
 title: Testing hashnode Github integration post
 slug: CUSTOM_SLUG_HERE
 tags: test
