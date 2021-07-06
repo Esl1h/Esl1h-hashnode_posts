@@ -5,15 +5,19 @@ tags: test, github, markdown
 cover: https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png
 domain: esli.blog.br
 ---
+
+## How to write/post on hashnode with a github's .md file
+
 Hello from github repo ;-)
 
-Repo: https://github.com/Esl1h/Esl1h-hashnode_posts
+My repo: https://github.com/Esl1h/Esl1h-hashnode_posts
 
 File in markdown: https://github.com/Esl1h/Esl1h-hashnode_posts/blob/main/testing.md 
 
 
-After connecting our app to your repository, follow these instructions to set up sourcing of posts from GitHub
+After connecting our hashnode account to your repository, follow these instructions to set up sourcing of posts from GitHub
 Your root folder should have all posts in markdown (.md) format
+
 Each post must have these details at the top of the file:
 ```
 ---
