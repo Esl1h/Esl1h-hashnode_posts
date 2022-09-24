@@ -29,9 +29,9 @@ domain: YOUR_DOMAIN_NAME_HERE (e.g. sandeep.dev or sandeep.hashnode.dev)
 ---
 Enter article body here
 To use images in your posts, 
-you will have to first upload them using the Hashnode uploader.
+you will have first to upload them using the Hashnode uploader.
 
 Posts sourced from GitHub can't be edited on Hashnode.
 
-This is an initial version. Feedback is very much appreciated.
+It is an initial version. Feedback is very much appreciated.
 ```
